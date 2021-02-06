@@ -1,3 +1,2 @@
 # Discord-Bot
-Step 1: Download the folder.exe
-Step 2: Open it up go go through it.
+Go through the folders and follow the directions
